@@ -8,3 +8,7 @@ st.write("Y si que menos con frigo camelo")
 image= Image.open('trulimero.png')
 
 st.image(image, caption='Trulimero')
+
+
+texto= st.text_input('Que opina?', 'Texto')
+st.write('El texto escrito es', texto)
