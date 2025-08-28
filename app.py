@@ -11,4 +11,4 @@ st.image(image, caption='Trulimero')
 
 
 texto= st.text_input('Que opina?', 'Texto')
-st.write('El texto escrito es', texto)
+st.write('El parcero sabe que son', texto)
